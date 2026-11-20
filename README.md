@@ -58,8 +58,15 @@ http://assets1.xboxlive.com/5/589ccd3e-4f56-4fd4-a5ec-730ee24a5b76/7a0114c0-7512
 
 ---
 
+## Also, Good to know
+
+> The file itself is not downloadable yet, on "PC". So, stay you to track on this repo & soon we will start de-encrypting the file
+
+- Minimal specs to play will be listed later
+- Additionally tools to be able to open the application will also be posted later
+---
 <div align="center">
 
-*Captured with **Hotspot Capture** · Nov 2026*
+*Captured with **Hotspot Capture** (I made it my self) · Nov 2026*
 
 </div>
