@@ -32,7 +32,7 @@ These are my notes on how a big Xbox game gets delivered.
 | 📁 **Package name** | `RockstarGamesInc.28872443D20A7_1.0.2.1_neutral_ANZ_k2ss7vbb13xte_xs.xvc` |
 | 📏 **Size** | **225,335,779,328 bytes** (Windows shows ≈ **209.9 GB**) |
 | 🏷️ **Version** | 1.0.2.1 (updated Nov 14, 2026) |
-| 🌐 **Served from** | Microsoft's Xbox download network (`assets1.xboxlive.com`) |
+| 🌐 **Served from** | Microsoft's Xbox download network (`assets1.xboxlive.com`) (`http://assets1.xboxlive.com/5/589ccd3e-4f56-4fd4-a5ec-730ee24a5b76/7a0114c0-7512-439e-9312-db0cd8951fa6/1.0.2.1.b07d34c4-9cb0-4c4e-b42b-3ea33f716956/RockstarGamesInc.28872443D20A7_1.0.2.1_neutral_ANZ_k2ss7vbb13xte_xs.xvc`) |
 | ✨ **Ultimate add-on** | A separate package, about **2 GB** |
 | 💾 **Space needed on the Xbox** | ≈ 212 GB for the game and the add-on |
 
